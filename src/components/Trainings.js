@@ -4,7 +4,7 @@ import sanityClient from "../client.js";
 export default function Trainings() {
     return (
         <main>
-                <h1 className="text-6xl text-green-100 font-bold cursive leading-none lg:leading-snug home-name">Duke punuar!!.</h1>
+                <h1 className="text-6xl text-green-100 font-bold cursive leading-none lg:leading-snug home-name">Duke punuar!</h1>
         </main>
     )
 }
