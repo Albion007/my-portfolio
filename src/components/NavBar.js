@@ -30,10 +30,6 @@ export default function NavBar() {
                     activeClassName="text-red-300 bg-gray-700">
                         Konferencat
                     </NavLink>
-                    <NavLink to="/practics" className="inline-flex items-center py-3 px-3 my-6 rounded text-red-200 hover:text-yellow-800"
-                    activeClassName="text-red-300 bg-gray-700">
-                        Praktikat
-                    </NavLink>
                     <NavLink to="/about" className="inline-flex items-center py-3 px-3 my-6 rounded text-red-200 hover:text-yellow-800"
                     activeClassName="text-red-300 bg-gray-700">
                         Rreth meje!

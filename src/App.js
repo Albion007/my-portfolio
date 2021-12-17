@@ -7,7 +7,6 @@ import Project from "./components/Project";
 import NavBar from "./components/NavBar";
 import Trainings from "./components/Trainings";
 import Conferences from "./components/Conferences";
-import Practics from "./components/Practics";
 
 function App() {
   return (
@@ -21,7 +20,6 @@ function App() {
         <Route component={Project} path='/project' />
         <Route component={Trainings} path='/trainings' />
         <Route component={Conferences} path='/conferences' />
-        <Route component={Practics} path='/practics' />
       </Switch>
     </BrowserRouter>
   )
